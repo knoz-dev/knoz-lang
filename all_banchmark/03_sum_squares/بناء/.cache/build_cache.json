@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "sum_squares.كنز": {
+      "modified": 1766811571,
+      "size": 572,
+      "hash": null,
+      "output_path": "بناء/custom/sum_squares",
+      "dependencies": []
+    }
+  },
+  "last_profile": "custom",
+  "last_target": "aarch64-apple-darwin"
+}

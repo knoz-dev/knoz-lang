@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "collatz.كنز": {
+      "modified": 1766811571,
+      "size": 1090,
+      "hash": null,
+      "output_path": "بناء/custom/collatz",
+      "dependencies": []
+    }
+  },
+  "last_profile": "custom",
+  "last_target": "aarch64-apple-darwin"
+}

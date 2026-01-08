@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "prime_sieve.كنز": {
+      "modified": 1766812168,
+      "size": 967,
+      "hash": null,
+      "output_path": "بناء/custom/prime_sieve",
+      "dependencies": []
+    }
+  },
+  "last_profile": "custom",
+  "last_target": "aarch64-apple-darwin"
+}

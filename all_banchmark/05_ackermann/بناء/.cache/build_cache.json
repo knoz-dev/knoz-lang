@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "ackermann.كنز": {
+      "modified": 1766811571,
+      "size": 690,
+      "hash": null,
+      "output_path": "بناء/custom/ackermann",
+      "dependencies": []
+    }
+  },
+  "last_profile": "custom",
+  "last_target": "aarch64-apple-darwin"
+}

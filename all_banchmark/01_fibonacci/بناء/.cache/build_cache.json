@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": {
+    "fibonacci.كنز": {
+      "modified": 1766811570,
+      "size": 586,
+      "hash": null,
+      "output_path": "بناء/custom/fibonacci",
+      "dependencies": []
+    }
+  },
+  "last_profile": "custom",
+  "last_target": "aarch64-apple-darwin"
+}
